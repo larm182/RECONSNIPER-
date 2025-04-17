@@ -27,3 +27,10 @@ Una herramienta OSINT desarrollada en Python que permite analizar direcciones IP
 ## 📦 Requisitos
 
 pip install -r requirements.txt
+
+
+## EJEMPLO:
+
+![2 (2)](https://github.com/user-attachments/assets/64b3e2d9-5c79-4892-bb0d-bd04d2de0004)
+
+![1 (2)](https://github.com/user-attachments/assets/240dea88-ecf6-4c2a-a6dc-bb93486bb345)
